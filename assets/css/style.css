@@ -95,11 +95,11 @@ section {
     margin:0 5px;
 }
 .hero-form button {
-    font-size: 10px;
-    padding: 10px;
-    border: 1px solid black;
-    color: #024e76;
-    background-color: #fce138;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    color: #fce138;
+    background-color: #024e76;
 }
 /*Hero Style End */
 
